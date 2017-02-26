@@ -1,0 +1,8 @@
+C:\GitHub\risk-manager\RiskManager.Sql_Init\bin\Debug\RiskManager.Sql_Init.exe.config
+C:\GitHub\risk-manager\RiskManager.Sql_Init\bin\Debug\RiskManager.Sql_Init.exe
+C:\GitHub\risk-manager\RiskManager.Sql_Init\bin\Debug\RiskManager.Sql_Init.pdb
+C:\GitHub\risk-manager\RiskManager.Sql_Init\obj\Debug\RiskManager.Sql_Init.csprojResolveAssemblyReference.cache
+C:\GitHub\risk-manager\RiskManager.Sql_Init\obj\Debug\RiskManager.Sql_Init.exe
+C:\GitHub\risk-manager\RiskManager.Sql_Init\obj\Debug\RiskManager.Sql_Init.pdb
+C:\GitHub\risk-manager\RiskManager.Sql_Init\bin\Debug\RiskManager.Logic.dll
+C:\GitHub\risk-manager\RiskManager.Sql_Init\bin\Debug\RiskManager.Logic.pdb

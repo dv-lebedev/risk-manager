@@ -1,0 +1,11 @@
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\RiskManager.Data.dll
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\RiskManager.Logic.dll
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\RiskManager.Data.pdb
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\RiskManager.Logic.pdb
+C:\GitHub\risk-manager\RiskManager.Tests\obj\Debug\RiskManager.Tests.csprojResolveAssemblyReference.cache
+C:\GitHub\risk-manager\RiskManager.Tests\obj\Debug\RiskManager.Tests.dll
+C:\GitHub\risk-manager\RiskManager.Tests\obj\Debug\RiskManager.Tests.pdb
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\RiskManager.Tests.dll
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\RiskManager.Tests.pdb
+C:\GitHub\risk-manager\RiskManager.Tests\bin\Debug\RiskManager.Tests.dll.config

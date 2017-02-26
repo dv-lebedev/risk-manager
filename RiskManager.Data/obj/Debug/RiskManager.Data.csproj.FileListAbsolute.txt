@@ -1,0 +1,10 @@
+C:\Users\Denis_Lebedev\Documents\RiskManager\RiskManager.Data\bin\Debug\RiskManager.Data.dll
+C:\Users\Denis_Lebedev\Documents\RiskManager\RiskManager.Data\bin\Debug\RiskManager.Data.pdb
+C:\Users\Denis_Lebedev\Documents\RiskManager\RiskManager.Data\obj\Debug\RiskManager.Data.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Lebedev\Documents\RiskManager\RiskManager.Data\obj\Debug\RiskManager.Data.dll
+C:\Users\Denis_Lebedev\Documents\RiskManager\RiskManager.Data\obj\Debug\RiskManager.Data.pdb
+C:\GitHub\risk-manager\RiskManager.Data\bin\Debug\RiskManager.Data.dll
+C:\GitHub\risk-manager\RiskManager.Data\bin\Debug\RiskManager.Data.pdb
+C:\GitHub\risk-manager\RiskManager.Data\obj\Debug\RiskManager.Data.dll
+C:\GitHub\risk-manager\RiskManager.Data\obj\Debug\RiskManager.Data.pdb
+C:\GitHub\risk-manager\RiskManager.Data\obj\Debug\RiskManager.Data.csprojResolveAssemblyReference.cache
