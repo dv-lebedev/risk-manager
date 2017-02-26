@@ -26,7 +26,7 @@ using System.Linq;
 namespace RiskManager.Data.Tests
 {
     [TestClass()]
-    public class MarketDataRepositoryTests
+    public class SQLMarketDataTests
     {
         private string ConnectionString
         {

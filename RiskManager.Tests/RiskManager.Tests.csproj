@@ -60,7 +60,7 @@
     <Compile Include="Logic\CsvUtilsTests.cs" />
     <Compile Include="Logic\LinearRegressionTests.cs" />
     <Compile Include="Logic\MathUtilsTests.cs" />
-    <Compile Include="Data\MarketDataRepositoryTests.cs" />
+    <Compile Include="Data\SQLMarketDataTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Logic\RiskCalculationTests.cs" />
   </ItemGroup>

@@ -28,12 +28,7 @@ namespace RiskManager.Logic
     {
         public static double PowArray(double[] array)
         {
-            double total = .0;
-            for (int i = 0; i < array.Length; i++)
-            {
-                total += Math.Pow(array[i], 2);
-            }
-            return total;
+            return array.Select(i => Math.Pow(i, 2)).Sum();
         }
 
         public static double MultiplyArrays(double[] x, double[] y)

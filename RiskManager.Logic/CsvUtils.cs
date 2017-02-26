@@ -74,7 +74,6 @@ namespace RiskManager.Logic
                 
                 result.Add(price);
             }
-
             return result.ToArray();
         }
 
@@ -87,7 +86,6 @@ namespace RiskManager.Logic
                 var fileName = Path.GetFileNameWithoutExtension(file);
                 result.Add(fileName);
             }
-
             return result;
         }
     }

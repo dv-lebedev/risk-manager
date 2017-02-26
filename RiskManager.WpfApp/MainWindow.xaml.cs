@@ -97,12 +97,10 @@ namespace RiskManager.WpfApp
                 result.Add(new RCResultItem
                 {
                     Symbol = symbol,
-
                     Alpha = regression.Alpha,
                     Beta = regression.Beta,
                     R = regression.R,
                     RSquared = regression.RSquared,
-
                     TradeLimit = value.TradeLimit,
                     RiskLimit = value.Risk,
                     Commission = value.Commission,

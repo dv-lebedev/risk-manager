@@ -61,7 +61,7 @@ namespace RiskManager.Logic
             if (initFlag) throw new Exception("It has been initialized.");
 
             SetRegressions(rValueMinimum);
-            SetParams();
+            Calculate();
             initFlag = true;
         }
 
@@ -86,7 +86,7 @@ namespace RiskManager.Logic
             }
         }
 
-        private void SetParams()
+        private void Calculate()
         {
             double totalWeight = .0;
             foreach (var item in RiskParameters)

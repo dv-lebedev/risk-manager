@@ -7,3 +7,4 @@ C:\GitHub\risk-manager\RiskManager.Logic\bin\Debug\RiskManager.Logic.dll
 C:\GitHub\risk-manager\RiskManager.Logic\bin\Debug\RiskManager.Logic.pdb
 C:\GitHub\risk-manager\RiskManager.Logic\obj\Debug\RiskManager.Logic.dll
 C:\GitHub\risk-manager\RiskManager.Logic\obj\Debug\RiskManager.Logic.pdb
+C:\GitHub\risk-manager\RiskManager.Logic\obj\Debug\RiskManager.Logic.csprojResolveAssemblyReference.cache

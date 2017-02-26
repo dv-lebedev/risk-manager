@@ -58,7 +58,6 @@ namespace RiskManager.Data
                     result.Add(new Stock { DateTime = dt, Price = price });
                 }
             }
-
             return result;
         }
 
